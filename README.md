@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VRA9000
-- 👀 I’m interested in ... beginner Frontend Developer job position
+- 👀 I’m interested in ... beginner Frontend Developer job position with lowest salary rates
 - 🌱 I’m currently learning ... Frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
