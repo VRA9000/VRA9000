@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaggelis
-- 👀 I’m interested in ... Freelance or tech company front end entry position
-- 🌱 I’m currently learning ... front end development and being ambitious to become a Fullstack Developer
+- 👀 I’m interested in ... Freelance or tech company Frontend entry positions
+- 🌱 I’m currently learning ... Frontend development and being ambitious to become a Fullstack Developer
 - 💞️ I’m looking to collaborate on ... new projects
 - ⚡ Fun fact: ... I play basketball
 
