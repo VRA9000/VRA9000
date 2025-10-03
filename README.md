@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VRA9000
 - 👀 I’m interested in ... Freelance or tech company front end entry position
-- 🌱 I’m currently learning ... front end development
-- 💞️ I’m looking to collaborate on ...
-
+- 🌱 I’m currently learning ... front end development and being ambitious to become a Fullstack Developer
+- 💞️ I’m looking to collaborate on ... new projects
 - ⚡ Fun fact: ... I play basketball
 
 <!---
