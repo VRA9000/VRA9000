@@ -1,5 +1,5 @@
 - 👀 I’m interested in ... Freelance or tech company Frontend entry positions
-- 🌱 I’m currently learning ... Frontend development and being ambitious to become a Fullstack Developer
+- 🌱 I’m currently learning ... Frontend development 
 - 💞️ I’m looking to collaborate on ... new projects
 - ⚡ Fun fact: ... I play basketball
 
